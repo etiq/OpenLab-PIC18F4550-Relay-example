@@ -1,0 +1,17 @@
+_OpenUSART: CODE, 2200 0 104
+_Write_str: CODE, 2304 0 92
+__stringdata: SMALLCONST, 2049 0 8
+_main: CODE, 2582 0 42
+_Write: CODE, 2734 0 14
+__initialization: CODE, 2488 0 38
+_Rx_isr: CODE, 8 0 2192
+_WriteUSART: CODE, 2682 0 18
+i2_Write: CODE, 2748 0 14
+_Config_Interrupt_Rx: CODE, 2762 0 10
+i2_Write_str: CODE, 2396 0 92
+i2_WriteUSART: CODE, 2700 0 18
+_ReadUSART: CODE, 2624 0 30
+_Switch: CODE, 2654 0 28
+_UsartConfig: CODE, 2718 0 16
+_Read: CODE, 2772 0 10
+Total: 2726
